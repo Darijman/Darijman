@@ -5,7 +5,7 @@
 
 <hr>
 
-<p>Outside of work, i'm interested in sport, I play soccer and volleyball for fun.</p>
+<p>Outside of work, I'm passionate about sports and learning. I study natural languages and enjoy playing soccer in my free time.</p>
 
 <hr>
 
@@ -17,10 +17,13 @@ Fun Facts:
         I'm in love with pasta
     </li>
      <li>
-        Haikyuu is my favorite anime
+        Death's Game is my favorite kdrama 
     </li>
      <li>
-        I like learning languages
+        I like learning natural languages
+    </li>
+     <li>
+        I admire Asian fashion styles
     </li>
   </ul>
 
